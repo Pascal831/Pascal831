@@ -1,6 +1,6 @@
 <h1>Hi, I'm Pascal! a Cybersecurity and Cloud Enthusiast
 
-<h2>👨‍💻 Cybersecurity Certifications:</h2>
+<h2>👨‍💻 Practical Projects:</h2>
 
 - <b>Google Cloud Cybersecurity Professional</b> https://www.coursera.org/account/accomplishments/professional-cert/N4D9HF8XOZUT
   
