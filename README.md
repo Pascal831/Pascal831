@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pascal! a cybersecurity professional with a strong foundation in cloud technologies, dedicated to protecting systems and data through proactive risk management and the implementation of industry best practices.
+<h1>Hi, I'm Pascal! a Cybersecurity and Cloud Enthusiast
 
 <h2>👨‍💻 Cybersecurity Certifications:</h2>
 
