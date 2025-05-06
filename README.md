@@ -17,10 +17,6 @@ I'm passionate about safeguarding digital systems, enabling secure cloud transfo
 
 - **[Deploy a High-Availability Web App Using CloudFormation](https://github.com/Pascal831/Operationalize-A-ML-Microservice-API/blob/main/README.md)**  
  This capstone project showcases the design and deployment of a fully automated CI/CD pipeline for a containerized web application using AWS and Kubernetes. It covers infrastructure provisioning via CloudFormation, continuous integration with Jenkins, containerization with Docker, and blue/green deployments to Amazon EKS. The project demonstrates best practices in DevOps and cloud-native architecture, enabling secure, scalable, and highly available application delivery.
-
-
-  
-. 
 ---
 
 ## 🎓 Certifications
@@ -31,8 +27,7 @@ I'm passionate about safeguarding digital systems, enabling secure cloud transfo
   Completed a five-course series on cloud security covering core principles, risk management, threat protection & incident response.
 - **[Microsoft Cybersecurity Analyst](https://www.coursera.org/account/accomplishments/professional-cert/5VQLARK035FE)**  
   Completed a comprehensive course series on cybersecurity fundamentals, networking, Azure AD, Microsoft Defender, security tools, compliance, and advanced concepts—culminating in a capstone project.
-
-
+  
 ---
 
 ## 🤝 Connect With Me
