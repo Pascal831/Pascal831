@@ -1,44 +1,39 @@
-<h1>Hi, I'm Pascal! a Cybersecurity and Cloud Enthusiast
+# 👋 Hi, I'm Pascal — Cybersecurity & Cloud Enthusiast
 
-<h2>👨‍💻 Projects:</h2>
- 
-- <b>Google Cybersecurity Professional Labs & Notes</b> 
-  - https://github.com/Pascal831/Cybersecurity-Foundation/blob/main/README.md
+I'm passionate about safeguarding digital systems, enabling secure cloud transformation, and continuously learning the tools and frameworks that support modern security operations.
 
-<h2>👨‍💻 Certifications:</h2>
- 
-- <b>Google Cybersecurity Professional Certificate</b> 
-  - https://www.coursera.org/account/accomplishments/professional-cert/N4D9HF8XOZUT
+---
 
-<h2> 🤳 Connect with me:</h2>
+## 🛠️ Projects
 
+- **[Google Cybersecurity Professional Labs & Notes](https://github.com/Pascal831/Cybersecurity-Foundation/blob/main/README.md)**  
+  A hands-on repository of labs, exercises, and professional documentation built during the Google Cybersecurity Certificate program. Topics include Linux, SQL, SIEM (Chronicle & Splunk), IDS (Suricata), tcpdump, Wireshark, Python automation, and more.
 
+---
+
+## 🎓 Certifications
+
+- **[Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/N4D9HF8XOZUT)**  
+  Completed an 8-course, industry-recognized program covering threat detection, risk management, incident response, and security best practices.
+
+---
+
+## 🤝 Connect With Me
+
+I’m always open to networking, learning, and collaborating on security projects.
+
+- 📫 [Email me](mailto:youremail@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/)
+- 🌐 [Portfolio Website (Optional)](https://yourwebsite.com)
+
+---
+
+<!-- Optional: Add fun facts or your tech stack here -->
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pascal831/Pascal831** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I’m currently working on cloud security projects  
+🌱 I’m currently learning Azure security and MITRE ATT&CK  
+💬 Ask me about cybersecurity frameworks, GRC, and detection tools  
+⚡ Fun fact: I enjoy simplifying complex security concepts into visuals!
 -->
