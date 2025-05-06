@@ -27,7 +27,11 @@ I'm passionate about safeguarding digital systems, enabling secure cloud transfo
   Completed a five-course series on cloud security covering core principles, risk management, threat protection & incident response.
 - **[Microsoft Cybersecurity Analyst](https://www.coursera.org/account/accomplishments/professional-cert/5VQLARK035FE)**  
   Completed a comprehensive course series on cybersecurity fundamentals, networking, Azure AD, Microsoft Defender, security tools, compliance, and advanced concepts—culminating in a capstone project.
-  
+- **[AWS Cloud Architect](https://www.udacity.com/certificate/e/619b8468-98aa-11ea-a4b0-0bfa7a4016ae)**  
+  This course trains engineers to design secure, scalable, and cost-effective applications using AWS, focusing on high availability, automation, and best cloud architecture practices.
+- **[Cloud DevOps Engineer](https://www.udacity.com/certificate/e/90567bc0-6d33-11ea-a387-0329ec52e709)**  
+   This course equips learners with the skills to build and manage CI/CD pipelines, automate infrastructure with Infrastructure as Code (IaC), deploy scalable applications on AWS using Kubernetes, and apply DevOps best practices.
+
 ---
 
 ## 🤝 Connect With Me
