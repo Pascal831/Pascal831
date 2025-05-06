@@ -22,9 +22,8 @@ I'm passionate about safeguarding digital systems, enabling secure cloud transfo
 
 I’m always open to networking, learning, and collaborating on security projects.
 
-- 📫 [Email me](mailto:youremail@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/)
-- 🌐 [Portfolio Website (Optional)](https://yourwebsite.com)
+- 📫 [Email me](pegbenda1@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pascalegbenda/)
 
 ---
 
