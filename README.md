@@ -14,6 +14,12 @@ I'm passionate about safeguarding digital systems, enabling secure cloud transfo
 
 - **[Deploy a High-Availability Web App Using CloudFormation](https://github.com/Pascal831/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/README.md)**  
   This project demonstrates how to deploy a highly available web application on AWS using CloudFormation. It includes the automated provisioning of a VPC, subnets, a bastion host for secure SSH access, an application load balancer, and an auto-scaling group of EC2 instances. The goal is to create a fault-tolerant, secure, and scalable infrastructure following DevOps best practices.
+
+- **[Deploy a High-Availability Web App Using CloudFormation](https://github.com/Pascal831/Operationalize-A-ML-Microservice-API/blob/main/README.md)**  
+ This capstone project showcases the design and deployment of a fully automated CI/CD pipeline for a containerized web application using AWS and Kubernetes. It covers infrastructure provisioning via CloudFormation, continuous integration with Jenkins, containerization with Docker, and blue/green deployments to Amazon EKS. The project demonstrates best practices in DevOps and cloud-native architecture, enabling secure, scalable, and highly available application delivery.
+
+
+  
 . 
 ---
 
