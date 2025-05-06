@@ -12,6 +12,9 @@ I'm passionate about safeguarding digital systems, enabling secure cloud transfo
 - **[Deploying a static website to AWS](https://github.com/Pascal831/Cybersecurity-Foundation/blob/main/README.md)**  
   This project demonstrates how to deploy and securely host a static website using Amazon S3 and distribute it globally with CloudFront. It includes setting up public access via IAM policies, configuring S3 for static hosting, and using CloudFront for faster content delivery. 
 
+- **[Deploy a High-Availability Web App Using CloudFormation](https://github.com/Pascal831/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/README.md)**  
+  This project demonstrates how to deploy a highly available web application on AWS using CloudFormation. It includes the automated provisioning of a VPC, subnets, a bastion host for secure SSH access, an application load balancer, and an auto-scaling group of EC2 instances. The goal is to create a fault-tolerant, secure, and scalable infrastructure following DevOps best practices.
+. 
 ---
 
 ## 🎓 Certifications
