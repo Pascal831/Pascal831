@@ -13,7 +13,7 @@ I'm passionate about safeguarding digital systems, enabling secure cloud transfo
 
 ## 🎓 Certifications
 
-- **[Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/N4D9HF8XOZUT)**  
+- **[Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/3JN2Y7BCJNTR)**  
   Completed an 8-course, industry-recognized program covering threat detection, risk management, incident response, and security best practices.
 
 ---
