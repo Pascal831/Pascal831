@@ -1,7 +1,7 @@
 <h1>Hi, I'm Pascal! a Cybersecurity and Cloud Enthusiast
 
 <h2>👨‍💻 Practical Projects:</h2>
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Google Cloud Cybersecurity Professiona</b>
  [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
  
 - <b>Google Cloud Cybersecurity Professional</b> https://www.coursera.org/account/accomplishments/professional-cert/N4D9HF8XOZUT
