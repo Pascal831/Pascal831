@@ -1,10 +1,8 @@
 <h1>Hi, I'm Pascal! a Cybersecurity and Cloud Enthusiast
 
 <h2>👨‍💻 Practical Projects:</h2>
-- <b>Google Cloud Cybersecurity Professiona</b>
- [Labs](https://https://github.com/Pascal831/Cybersecurity-Foundation/blob/main/README.md)
- 
-- <b>Google Cloud Cybersecurity Professional</b> https://www.coursera.org/account/accomplishments/professional-cert/N4D9HF8XOZUT
+- <b>Google Cloud Cybersecurity Professiona</b> 
+- <b>Hand-on Labs</b> (/https://github.com/Pascal831/Cybersecurity-Foundation/blob/main/README.md)
 
 <h2>👨‍💻 Certifications:</h2>
  
