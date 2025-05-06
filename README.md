@@ -25,8 +25,13 @@ I'm passionate about safeguarding digital systems, enabling secure cloud transfo
 
 ## 🎓 Certifications
 
-- **[Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/3JN2Y7BCJNTR)**  
+- **[Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/professional-cert/3JN2Y7BCJNTR)**  
   Completed an 8-course, industry-recognized program covering threat detection, risk management, incident response, and security best practices.
+- **[Google Cloud Cybersecurity](https://www.coursera.org/account/accomplishments/professional-cert/N4D9HF8XOZUT)**  
+  Completed a five-course series on cloud security covering core principles, risk management, threat protection & incident response.
+- **[Microsoft Cybersecurity Analyst](https://www.coursera.org/account/accomplishments/professional-cert/5VQLARK035FE)**  
+  Completed a comprehensive course series on cybersecurity fundamentals, networking, Azure AD, Microsoft Defender, security tools, compliance, and advanced concepts—culminating in a capstone project.
+
 
 ---
 
