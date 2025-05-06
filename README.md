@@ -8,7 +8,8 @@ I'm passionate about safeguarding digital systems, enabling secure cloud transfo
 
 - **[Google Cybersecurity Professional Labs & Notes](https://github.com/Pascal831/Cybersecurity-Foundation/blob/main/README.md)**  
   A hands-on repository of labs, exercises, and professional documentation built during the Google Cybersecurity Certificate program. Topics include Linux, SQL, SIEM (Chronicle & Splunk), IDS (Suricata), tcpdump, Wireshark, Python automation, and more.
-- **[Deploying a static website to AWS](https://github.com/Pascal831/Deploy-Static-Websites-to-AWS)**  
+- **[Deploying a static website to AWS](https://github.com/Pascal831/Deploy-Static-Websites-to-AWS)**
+  This project demonstrates how to deploy and securely host a static website using Amazon S3 and distribute it globally with CloudFront. It includes setting up public access via IAM policies, configuring S3 for static hosting, and using CloudFront for faster content delivery. 
 
 ---
 
