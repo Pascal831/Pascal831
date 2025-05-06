@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Practical Projects:</h2>
 - <b>Google Cloud Cybersecurity Professiona</b>
- [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+ [Labs](https://https://github.com/Pascal831/Cybersecurity-Foundation/blob/main/README.md)
  
 - <b>Google Cloud Cybersecurity Professional</b> https://www.coursera.org/account/accomplishments/professional-cert/N4D9HF8XOZUT
 
