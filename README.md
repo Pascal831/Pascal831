@@ -8,16 +8,15 @@ Secure cloud. Modern defenses. GRC. Continuous learning.
 
 | Project | Summary |
 |--------|---------|
-| [Google Cybersecurity Labs](https://github.com/Pascal831/Cybersecurity-Foundation) | Labs from the Google Cybersecurity Cert: Linux, SQL, SIEM, IDS, Python, more. |
-| [Static Website on AWS](https://github.com/Pascal831/Cybersecurity-Foundation) | Deploy & secure a global S3-hosted static site with CloudFront. |
-| [HA Web App on AWS](https://github.com/Pascal831/Deploy-a-High-Availability-Web-App-using-CloudFormation) | CloudFormation-based HA web app with VPC, ALB, Auto Scaling, EC2. |
-| [CI/CD ML Pipeline](https://github.com/Pascal831/Operationalize-A-ML-Microservice-API) | Full CI/CD for a containerized app using Jenkins, EKS, and Docker. |
-| [NIST CSF Risk Register](https://github.com/Pascal831/NIST-CSF-Risk-Register-Project) | Hands-on GRC risk register with heatmap, based on NIST CSF. |
-| [ISO 27001 Audit Sim](https://github.com/Pascal831/ISO-27001-Compliance-Audit-Simulation) | Simulated ISO audit to assess and recommend security control improvements. |
-| [AUP + Compliance Tracker](https://github.com/Pascal831/Acceptable-Use-Poliy-Compliance-Tracker) | Create, distribute, and track employee acknowledgment of AUP. |
-| [Vendor Risk Assessment](https://github.com/Pascal831/Third-Party-Vendor-Assessment) | Assess third-party vendors with a scoring-based questionnaire. |
-| [Data Classification and Handling Policy](https://github.com/Pascal831/Data-Classification-and-handling-policy/blob/main/README.md) | A structured approach to data classification and handling, featuring a policy and matrix to guide secure data use based on sensitivity.|
-
+| [Google Cybersecurity Labs](https://github.com/Pascal831/Cybersecurity-Foundation/blob/main/README.md) | Practical labs in Linux, SQL, SIEM, IDS, and Python from Google Cybersecurity Cert. |
+| [Static Website on AWS](https://github.com/Pascal831/Cybersecurity-Foundation/blob/main/README.md) | Secure and deploy a static site using S3, CloudFront, and IAM. |
+| [HA Web App on AWS](https://github.com/Pascal831/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/README.md) | Deploy an HA web app using CloudFormation, VPC, ALB, and EC2 Auto Scaling. |
+| [CI/CD ML Pipeline](https://github.com/Pascal831/Operationalize-A-ML-Microservice-API/blob/main/README.md) | Full CI/CD pipeline using Jenkins, Docker, and Kubernetes on AWS. |
+| [NIST CSF Risk Register](https://github.com/Pascal831/NIST-CSF-Risk-Register-Project/blob/main/README.md) | GRC risk register with scoring, mitigation, and a risk heatmap. |
+| [ISO 27001 Audit Sim](https://github.com/Pascal831/ISO-27001-Compliance-Audit-Simulation/blob/main/README.md) | Simulated audit with checklist and findings based on ISO 27001 controls. |
+| [AUP + Compliance Tracker](https://github.com/Pascal831/Acceptable-Use-Policy-Compliance-Tracker/blob/main/README.md) | Acceptable Use Policy plus employee acknowledgment tracker. |
+| [Vendor Risk Assessment](https://github.com/Pascal831/Third-Party-Vendor-Assessment/blob/main/README.md) | Vendor scoring model with questionnaire and tiered risk results. |
+| [Data Classification Policy](https://github.com/Pascal831/Data-Classification-and-handling-policy/blob/main/README.md) | Classify and protect data by sensitivity using a policy and handling matrix. |
 
 ---
 
@@ -36,10 +35,3 @@ Secure cloud. Modern defenses. GRC. Continuous learning.
 [📧 Email](mailto:pegbenda1@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/pascalegbenda/)
 
 ---
-
-<!-- Optional Tech Stack & Fun Facts
-**Pascal831/Pascal831** is a ✨ special ✨ repo because its `README.md` appears on your profile.
-🌱 Learning: Azure Security, MITRE ATT&CK
-💬 Ask about: Cyber frameworks, GRC, detection tools
-⚡ Fun fact: I turn complex security into simple visuals!
--->
