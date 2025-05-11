@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pascal — Cybersecurity & Cloud Enthusiast
 
-Secure cloud. Modern defenses. Continuous learning.
+Secure cloud. Modern defenses. GRC. Continuous learning.
 
 ---
 
