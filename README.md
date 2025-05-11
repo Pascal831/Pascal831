@@ -16,6 +16,8 @@ Secure cloud. Modern defenses. GRC. Continuous learning.
 | [ISO 27001 Audit Sim](https://github.com/Pascal831/ISO-27001-Compliance-Audit-Simulation) | Simulated ISO audit to assess and recommend security control improvements. |
 | [AUP + Compliance Tracker](https://github.com/Pascal831/Acceptable-Use-Poliy-Compliance-Tracker) | Create, distribute, and track employee acknowledgment of AUP. |
 | [Vendor Risk Assessment](https://github.com/Pascal831/Third-Party-Vendor-Assessment) | Assess third-party vendors with a scoring-based questionnaire. |
+| [Data Classification and Handling Policy](https://github.com/Pascal831/Data-Classification-and-handling-policy/blob/main/README.md) | A structured approach to data classification and handling, featuring a policy and matrix to guide secure data use based on sensitivity.|
+
 
 ---
 
