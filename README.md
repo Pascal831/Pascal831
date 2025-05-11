@@ -23,6 +23,13 @@ I'm passionate about safeguarding digital systems, enabling secure cloud transfo
 
 - **[ISO 27001 Compliance Audit Simulation](https://github.com/Pascal831/ISO-27001-Compliance-Audit-Simulation/blob/main/README.md)**  
   This project simulates an internal audit against selected ISO/IEC 27001 controls. It provides a realistic hands-on exercise in reviewing control effectiveness, identifying gaps, and recommending improvements for information security compliance.
+
+- **[Acceptable Use Policy + Compliance Tracker](https://github.com/Pascal831/Acceptable-Use-Poliy-Compliance-Tracker/blob/main/README.md)**  
+  This GRC project provides a structured approach for creating, distributing, and tracking employee acknowledgment of an Acceptable Use Policy (AUP). It helps ensure all personnel understand and adhere to proper system and data usage guidelines.
+
+- **[Third-Party Vendor Risk Assessment](https://github.com/Pascal831/Third-Party-Vendor-Assessment/blob/main/README.md)**  
+  This project simulates a third-party vendor risk assessment process, including a structured questionnaire and a sample scoring matrix. It is designed to help organizations evaluate the security posture, data protection practices, and business continuity of external vendors.
+
 ---
 
 ## 🎓 Certifications
