@@ -18,6 +18,9 @@ Secure cloud. Modern defenses. GRC. Continuous learning.
 | [Vendor Assessment](https://github.com/Pascal831/Third-Party-Vendor-Assessment/blob/main/README.md) | Vendor risk scoring with a structured questionnaire. |
 | [Data Classification Policy](https://github.com/Pascal831/Data-Classification-and-handling-policy/blob/main/README.md) | Sensitivity-based classification and handling rules. |
 | [Risk Dashboard & Appetite](https://github.com/Pascal831/Risk-Dashboard-Appetite/blob/main/README.md) | Dashboard + risk appetite statement for GRC reporting. |
+| [GRC Metrics & KRI Dashboard](https://github.com/Pascal831/GRC-Metrics-KRI/blob/main/README.md) | Track and communicate your organization's risk posture using Key Risk Indicators (KRIs) and executive-level reporting. This hands-on project supports proactive GRC management and risk communication. |
+| [Data Loss Prevention (DLP)](https://github.com/Pascal831/Data-Loss-Prevention/blob/main/README.md) | This project outlines a practical approach to implementing Data Loss Prevention (DLP) strategies, including policy development and a control matrix. It supports the protection of sensitive data such as PII, PCI, and IP. |
+
 
 ---
 
