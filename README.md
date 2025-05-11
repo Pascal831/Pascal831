@@ -17,6 +17,7 @@ Secure cloud. Modern defenses. GRC. Continuous learning.
 | [AUP + Compliance Tracker](https://github.com/Pascal831/Acceptable-Use-Policy-Compliance-Tracker/blob/main/README.md) | Acceptable Use Policy plus employee acknowledgment tracker. |
 | [Vendor Risk Assessment](https://github.com/Pascal831/Third-Party-Vendor-Assessment/blob/main/README.md) | Vendor scoring model with questionnaire and tiered risk results. |
 | [Data Classification Policy](https://github.com/Pascal831/Data-Classification-and-handling-policy/blob/main/README.md) | Classify and protect data by sensitivity using a policy and handling matrix. |
+| [Risk Dashboard & Appetite](https://github.com/Pascal831/Risk-Dashboard-Appetite/blob/main/README.md) | A concise overview of organizational risk posture using a dashboard and risk appetite statement to support GRC reporting and informed decisions. |
 
 ---
 
