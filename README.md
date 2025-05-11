@@ -20,6 +20,9 @@ I'm passionate about safeguarding digital systems, enabling secure cloud transfo
 
 - **[NIST CSF-Aligned Risk Register](https://github.com/Pascal831/NIST-CSF-Risk-Register-Project/blob/main/README.md)**  
   This project demonstrates the creation of a Governance, Risk, and Compliance (GRC) risk register using the NIST Cybersecurity Framework (CSF) as a guiding standard. It includes a 10-risk register, visual heatmap, and comprehensive report—all built as part of a hands-on GRC learning lab.
+
+- **[ISO 27001 Compliance Audit Simulation](https://github.com/Pascal831/ISO-27001-Compliance-Audit-Simulation/blob/main/README.md)**  
+  This project simulates an internal audit against selected ISO/IEC 27001 controls. It provides a realistic hands-on exercise in reviewing control effectiveness, identifying gaps, and recommending improvements for information security compliance.
 ---
 
 ## 🎓 Certifications
